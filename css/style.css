@@ -6,6 +6,10 @@ body {
     background: #BEEDB3;
     font-family: 'Open Sans', sans-serif;
 }
+::selection {
+    background-color: #A3C519 !important;
+    color : #000 !important;
+}
 
 a {
     color: #222222;
