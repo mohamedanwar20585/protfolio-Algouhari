@@ -231,6 +231,10 @@ a:focus {
     .sidebar:hover .sidebar-footer {
         display: block;
     }
+
+    .col-md-6 {
+        overflow: hidden;
+}
 }
 
 @media (min-width: 992px) {
