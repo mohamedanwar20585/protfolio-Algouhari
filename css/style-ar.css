@@ -1,0 +1,31 @@
+.wrapper .content {
+
+    margin-right:340px!important;
+}
+.content-header::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 100px !important;
+    height: 2px !important;
+    bottom: 0;
+    left: 43% !important;
+    background: #A3C519;
+}
+#p1 {
+    text-align: justify !important;
+}
+
+@media (min-width: 768px){
+.wrapper .sidebar {
+    position: fixed;
+    width: 300px;
+    height: 100%;
+    margin-left: -250px;
+    float: left;
+    overflow: auto;
+    scrollbar-width: thin;
+    scrollbar-color: gray;
+    z-index: 2;
+}
+}
