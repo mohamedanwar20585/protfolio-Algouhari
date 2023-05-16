@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #666666;
-    background: #BEEDB3;
+    background: #f0e7fb;
     font-family: 'Open Sans', sans-serif;
 }
 ::selection {
@@ -51,7 +51,7 @@ a:focus {
     width: 100%;
     padding: 15px;
     float: left;
-    background: #BEEDB3;
+    background: #f0e7fb;
 }
 
 .wrapper .sidebar-header,
@@ -120,7 +120,7 @@ a:focus {
         content: "";
         width: 100%;
         height: 30px;
-        background: #BEEDB3;
+        background: #f0e7fb;
         z-index: 1;
     }
     
@@ -362,7 +362,7 @@ a:focus {
 
 .large-btn .content-inner {
     font-size: 0;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 .large-btn .btn {
@@ -437,7 +437,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 
@@ -505,7 +505,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 .education .edu-col {
@@ -578,7 +578,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 .experience .exp-col {
@@ -665,7 +665,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 .service .srv-col {
@@ -712,7 +712,7 @@ a:focus {
     position: relative;
     padding: 60px 30px 30px 30px;
     background: #ffffff;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 .portfolio #portfolio-flters {
@@ -859,7 +859,7 @@ a:focus {
 .review {
     position: relative;
     background: #ffffff;
-    border-bottom: 30px solid #BEEDB3;
+    border-bottom: 30px solid #f0e7fb;
 }
 
 .review .content-inner {
@@ -1086,7 +1086,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 30px 30px 0 30px;
-    background: #BEEDB3;
+    background: #f0e7fb;
 }
 
 .footer .col-md-6:last-child {
