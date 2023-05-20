@@ -1,3 +1,8 @@
+.navbar-expand-md .navbar-nav .nav-link i {
+    float: left !important;  
+}
+
+
 .wrapper .content {
 
     margin-right: 340px !important;
