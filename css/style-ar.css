@@ -1,11 +1,18 @@
 .navbar-expand-md .navbar-nav .nav-link i {
-    float: left !important;  
+    float: left !important; 
+     
+}
+.wrapper .sidebar {
+    position: relative;
+    width: 100%;
+    
+    background: rgb(34, 34, 34);
 }
 
 
 .wrapper .content {
 
-    margin-right: 340px !important;
+    margin-right: 300px !important;
 }
 
 .content-header::after {
@@ -77,4 +84,31 @@
     padding: 20px 20px 20px 0 !important;
     border-left: 1px solid #A3C519;
     border-bottom: 1px solid #A3C519;
+}
+
+
+@media (min-width: 768px)
+{
+    .wrapper .sidebar {
+        margin-right: -250px !important;
+        
+    }
+    .wrapper .sidebar:hover {
+        margin-right: 0px !important;
+    }
+    .wrapper .content {
+
+        margin-right: 50px !important;
+    }
+}
+@media (min-width: 992px)
+{
+    .wrapper .sidebar {
+        margin-right: 0px !important;
+    }
+    .wrapper .content {
+
+        margin-right: 310px !important;
+        padding: 30px !important;
+    }
 }
